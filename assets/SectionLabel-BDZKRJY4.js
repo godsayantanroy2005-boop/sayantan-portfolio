@@ -1,0 +1,1 @@
+import{A as e}from"./useReducedMotion-yzOM7IR6.js";var t=e();function n({children:e,className:n=``}){return(0,t.jsxs)(`div`,{className:`inline-flex items-center gap-2 ${n}`,children:[(0,t.jsx)(`div`,{className:`h-px w-6 bg-indigo-500/60`}),(0,t.jsx)(`span`,{className:`text-xs uppercase tracking-widest text-indigo-400 font-medium font-mono`,children:e})]})}export{n as t};
