@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://project-39ad6951-f990-4d50-acb.web.app/sitemap.xml
