@@ -39,7 +39,7 @@ export function DeveloperDashboard() {
       </div>
 
       {/* Grid Content */}
-      <div className="grid grid-cols-2 md:grid-cols-4 gap-px bg-sky-400/10">
+      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-px bg-sky-400/10">
         <div className="bg-[#0a0a0f]/90 p-4 flex flex-col gap-1">
           <span className="text-[10px] text-gray-500 font-mono uppercase">Developer</span>
           <span className="text-sm font-semibold text-gray-200">Sayantan Roy</span>
